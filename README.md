@@ -15,6 +15,7 @@ This project involves utilizing an API to obtain data from Twitter, then conduct
 
 
 ===================================
+
 Code:
 
 - No1_get_tweet_trends_UK.ipynb – Get the current trends in the UK (id=23424975) on 2023/03/24 
