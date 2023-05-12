@@ -1,5 +1,15 @@
 # Visualizing_Analyzing_Twitter_Trend
-Appendix A: Code Python
+
+This project involves utilizing an API to obtain data from Twitter, then conducting pre-processing, visualization, and analysis to gain valuable insights.
+
+•	Collect the latest trend tweets in the UK, and collect data according to hastags
+•	Preprocessing like removing irrelevant words, removing duplicate, converting to lowercase, stemming, lemmatization, and removing emojis
+•	Visualization and Natural language processing
+•	Sentiment Analysis use TextBlob
+•	Build Sentiment Analysis Model use Artificial Neural Network
+
+
+Code:
 
 - No1_get_tweet_trends_UK.ipynb – Get the current trends in the UK (id=23424975) on 2023/03/24 
 
